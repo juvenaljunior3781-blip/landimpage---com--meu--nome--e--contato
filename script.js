@@ -24,7 +24,7 @@ document.getElementById("contactForm").addEventListener("submit", (e) => {
 });
 
 // Efeito de digitação no texto do hero
-const heroText = "Desenvolvedor Full Stack | Criando soluções com tecnologia";
+const heroText = "Desenvolvedor Front-End| Criando soluções com tecnologia";
 const heroElement = document.getElementById("heroText");
 let index = 0;
 heroElement.textContent = "";
